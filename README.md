@@ -1,16 +1,5 @@
 # mG4H-OFF-Bakshi-Wende-2024
 
----
-title: "mG4H-OFF data analysis: R code"
-author: "Sayan Bakshi"
-date: "09/12/2024"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
-```
-
 **Title:** Transient Elevation in Cellular Glucose Uptake Exacerbates Pressure Overload-Induced Cardiac Hypertrophy and Dysfunction\
 **Lead author:** Sayan Bakshi, M.Sc.\
 **Corresponding author:** Dr. Adam R. Wende, Ph.D.\
