@@ -381,9 +381,9 @@ for (i in 1:length(enrichr_sheet)) {
 ```
 
 # RRBS Analysis
-The R code and list of R packages repurposed for this analysis can be found in:
-Article PMCID: PMC10292965
-File name: Supplemental File S1
+The R code and list of R packages repurposed for this analysis can be found in: \
+Article PMCID: PMC10292965 \
+File name: Supplemental File S1 \
 File link: https://doi.org/10.6084/m9.figshare.20419122
 
 # Merging datasets
